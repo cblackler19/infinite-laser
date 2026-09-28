@@ -1,0 +1,12 @@
+{
+  "manifestVersion": 1,
+  "id": "dethm0r.infinitelaser",
+  "name": "Infinite Laser",
+  "version": "1.2.0",
+  "apiVersion": 1,
+  "entry": "main.js",
+  "description": "Laser no longer consumes energy.",
+  "author": "dethm0r",
+  "dependencies": [],
+  "loadOrder": 0
+}

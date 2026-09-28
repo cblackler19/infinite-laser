@@ -1,0 +1,10 @@
+[
+  {
+    "id": "dethm0r.infinitelaser",
+    "file": "js/bundle.js",
+    "find": "if(!(e=>60===ie.FH.energy.consume(e,60,{allOrNothing:!0}))(e))",
+    "operation": "replace",
+    "code": "if(!(e=>0===ie.FH.energy.consume(e,0,{allOrNothing:!0}))(e))",
+    "expectedMatches": 1
+  }
+]
